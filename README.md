@@ -2,7 +2,7 @@
 Task management is an app which helps you to organize your life. It's a simple looking "To-Do" app.
 ### [Live demo!](http://lllllllllllllllllllllllllllllllllllllllllllllllllli.com/task)
 
-### [Video with features!](http://youtube.com)
+### [Video with features!](https://youtu.be/2UEpPr7sy-U)
 
 # Installation
 Database script is inside the "main" folder. You have to fit your database name, host and database's user information in the config file (config.php).
